@@ -1,7 +1,7 @@
 # Battle (A web app) Project 
 A project to develop skills in:
-- Test driving a simple Sinatra app
-- Write feature tests using Capybara
+- Test-driving a simple Sinatra app
+- Writing feature tests using Capybara
 
 ## User Stories
 
